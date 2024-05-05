@@ -288,7 +288,7 @@ def people_counter():
 
 	# close any open windows
 	cv2.destroyAllWindows()
-
+#Hello this code is created by Himanshu Mall Thanks for seeing this :)
 # initiate the scheduler
 if config["Scheduler"]:
 
